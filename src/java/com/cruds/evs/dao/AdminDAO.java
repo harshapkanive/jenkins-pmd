@@ -3,6 +3,7 @@ package com.cruds.evs.dao;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Date;
+import java.sql.Connection;
 
 import com.cruds.evs.bean.ApplicationBean;
 import com.cruds.evs.bean.CandidateBean;
